@@ -1,0 +1,7 @@
+Part a
+Newton's Method:	alpha = 32.97217482241961 degrees
+Secant Method:		alpha = 32.9721748224196 degrees
+
+Part b
+Newton's Method:	alpha = 33.16890382034808 degrees
+Secant Method:		alpha = 33.16890382034809 degrees

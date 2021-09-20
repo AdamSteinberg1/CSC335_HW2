@@ -1,0 +1,6 @@
+Time of second injection:
+	Newton's Method:	t = 11.07790358666909
+	Secant Method:		t = 11.07790358666909
+Time of third injection:
+	Newton's Method:	t = 21.23330875828441
+	Secant Method:		t = 21.23330875828441

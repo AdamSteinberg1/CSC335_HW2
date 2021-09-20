@@ -1,0 +1,4 @@
+Part c:
+	x = 3.141567934372436 after 5 iterations
+Part d:
+	x = 3.733092264399353 after 25 iterations

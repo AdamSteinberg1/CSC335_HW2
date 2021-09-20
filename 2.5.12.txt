@@ -1,0 +1,4 @@
+a) x = 2.554195952837043 after 3 iterations
+b) x = 2.094551481542327 after 3 iterations
+c) x = 0.910007572484912 after 4 iterations
+d) x = 0.7390851332151607 after 4 iterations
